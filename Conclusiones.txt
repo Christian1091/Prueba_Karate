@@ -1,0 +1,6 @@
+CONCLUSIONES
+
+A lo largo de la resolución de este ejercicio, he podido confirmar que Karate es un framework que ofrece diversas ventajas para la automatización de pruebas, entre sus principales fortalezas se destacan su capacidad para escribir múltiples casos de prueba en diferentes escenarios, lo que facilita la cobertura de diversas condiciones en un solo conjunto de pruebas.
+Una de las grandes ventajas de Karate es que su programación es relativamente sencilla, especialmente en comparación con otros frameworks más complejos como JMeter, lo que facilita su adopción por parte de equipos con distintos niveles de experiencia. También cabe resaltar que la ejecución de los escenarios fue extremadamente rápida, sin la necesidad de largos tiempos de espera, algo común en las automatizaciones web tradicionales.
+
+Como hallazgo el flujo respondio satisfactoriamente con las valdiaciones que se pedían en el documento, la respuesta por parte de las peticiones no etsuviero claras, entonces se tuvo que verificar con el status para comprobar que las pruebas sean exitosas.
